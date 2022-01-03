@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Ashish Singh",
+    "details": ""
+  },
+  {
+    "id": "2",
+    "name": "Rohit Sharma",
+    "details": "BackEnd, Data Science"
+  },
+  {
+    "id": "3",
+    "name": "Aditya",
+    "details": "App Dev, E-Commerce"
+  },
+  {
+    "id": "4",
+    "name": "Pradeep Rawat",
+    "details": "Databases"
+  },
+  {
+    "id": "5",
+    "name": "Deepika",
+    "details": "Databases"
+  },
+  {
+    "id": "6",
+    "name": "Ashish Raj",
+    "details": "Game Dev, Desktop Apps, Mobile Apps"
+  },
+  {
+    "id": "7",
+    "name": "Shubh Mishra",
+    "details": "Operating Systems, VR, Web Browsers"
+  },
+  {
+    "id": "8",
+    "name": "Deepika",
+    "details": "System Administration, GUI Development"
+  },
+  {
+    "id": "9",
+    "name": "Ashish Sharma",
+    "details": "System Programming, Audio Editing, Big Data"
+  }
+]
